@@ -8,7 +8,7 @@
     <td width="25%">
       <img src="/123.jpg" width="100%">    
     </td>
-  </tr>
+
 
 
 
